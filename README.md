@@ -2,7 +2,7 @@
 
 This repository contains the PyTorch implementation for the 2024 ACCV paper:  
 **Federated Class Incremental Learning: A Pseudo Feature Based Approach Without Exemplars** <br>
-This paper was selected for **oral presentation**, placing it in the top 5.6% of submissions.  
+This paper was selected for **oral presentation**, placing it in the top 5.6% of submissions.
 
 Min Kyoon Yoo, Yu Rang Park  
 Department of Biomedical Systems Informatics, Yonsei University College of Medicine, Seoul, Republic of Korea
